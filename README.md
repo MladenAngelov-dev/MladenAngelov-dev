@@ -8,6 +8,7 @@
 **Areas of Interest**
 
 During my free time, I find myself deeply immersed in the fascinating realms of game development, data analysis, and web development. These areas captivate my attention and allow me to explore the infinite possibilities of creating interactive experiences, deriving insights from data, and crafting user-friendly web applications.
+
 **Projects and Contributions**
 
 Over the course of my coding journey, I have embarked on several projects, including game development using Pygame. These projects have served as a means of practical application, allowing me to reinforce my understanding of programming concepts and algorithms. Additionally, I have contributed to open-source projects and collaborated with fellow developers to create innovative solutions.
