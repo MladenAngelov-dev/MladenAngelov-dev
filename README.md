@@ -7,7 +7,7 @@
 
 **Areas of Interest**
 
-During my free time, I find myself deeply immersed in the fascinating realms of game development, data analysis, and web development. These areas captivate my attention and allow me to explore the infinite possibilities of creating interactive experiences, deriving insights from data, and crafting user-friendly web applications.
+During my free time, I find myself deeply immersed in the fascinating realms of game development  and web development. These areas captivate my attention and allow me to explore the infinite possibilities of creating interactive experiences, deriving insights from data, and crafting user-friendly web applications.
 
 **Projects and Contributions**
 
