@@ -13,4 +13,4 @@
 
 🌱 Over the course of my coding journey, I have embarked on several projects, including game development using Pygame. These projects have served as a means of practical application, allowing me to reinforce my understanding of programming concepts and algorithms. Additionally, I have contributed to open-source projects and collaborated with fellow developers to create innovative solutions.
 
-📫 You can get in touch with me by email at: angelov.mladen@gmail.com and [Facebook]([https://www.facebook.com/mladen.angelov.5/])
+📫 You can get in touch with me by email at: angelov.mladen@gmail.com and [Facebook](https://www.facebook.com/mladen.angelov.5/)
